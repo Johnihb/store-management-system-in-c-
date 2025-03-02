@@ -1,3 +1,5 @@
+// default username = admin and password=admin123
+
 #include <iostream>
 #include <fstream>
 #include <string>
